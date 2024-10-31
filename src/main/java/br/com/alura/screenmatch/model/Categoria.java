@@ -24,7 +24,7 @@ public enum Categoria {
         throw new IllegalArgumentException("Nenhuma categoria encontrada para a string fornecida: " + text);
     }
 
-    public static Categoria fromPortugeus(String text) {
+    public static Categoria fromPortugues(String text) {
         for (Categoria categoria : Categoria.values()) {
             if (categoria.categoriaPortugues.equalsIgnoreCase(text)) {
                 return categoria;
