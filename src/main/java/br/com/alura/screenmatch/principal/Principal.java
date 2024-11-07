@@ -42,7 +42,7 @@ public class Principal {
                     9 - Buscar episódios por trecho
                     10 - Top 5 episódios por série
                     11 - Buscar episódios a partir de uma data
-                    
+                        
                     0 - Sair
                     """;
 
