@@ -15,35 +15,48 @@
 
 ---
 ### Observações:
+
 - _API utilizada: `(https://omdbapi.com/)`;_
 - _`Maven`_
 - _Banco de dados: `PostgreSQL`;_
 
 ---
-### Requisitos:
-
-
----
 ### Tela incial:
 
+- _Ao iniciar a aplicação, na página web irá aparecer todas as séries cadastradas no banco de dados._
+
 > <img src="src/assets/telaInicial.png">
+
+- _Separadas por `Lançamentos`, `Títulos populares` e todos os `Títulos` do screenmatch._
 
 > <img src="src/assets/telaInicial2.png">
 
 ### Escolher categoria:
 
+- _Ainda na tela inicia teremos a opção em escolher séries por categoria._
+
 > <img src="src/assets/categorias.png">
+
+- _Ao selecionar irá aparecer apenas as séries da determinada categoria escolhida pelo usuário._
 
 > <img src="src/assets/categoriaSelecionada.png">
 
 ### Selecionando série:
 
+- _Ao escolher uma série, entrará em uma página com algumas informações dessa séries sendo elas: `média de avaliações`, `sinopse` e `atores`._
+
 > <img src="src/assets/serieSelecionada.png">
 
 ### Escolher temporada:
 
+- _Dentro da série terá a opção de escolher determinada temporada._
+
 > <img src="src/assets/escolherTemporada.png">
 
+- _Ao escolher irá aparecer todos os episódios da temporada escolhida._
+
 > <img src="src/assets/temporadaEscolhida.png">
+
+- _Selecionando todas as temporas, irá aparecer todos os episódios de todas as temporadas._
 
 > <img src="src/assets/todasTemporadas.png">
