@@ -14,11 +14,18 @@
 *🎞️️ Projeto Screenmatch desenvolvido nas aulas do curso 🎞️️*
 
 ---
-### Observações:
+## Observações:
 
 - _API utilizada: `(https://omdbapi.com/)`;_
 - _`Maven`_
 - _Banco de dados: `PostgreSQL`;_
+
+## Índice
+
+> -  [Tela inicial](#tela-incial)
+> -  [Categoria](#escolher-categoria)
+> -  [Série](#selecionando-série)
+> -  [Temporadas](#escolher-temporada)
 
 ---
 ### Tela incial:
