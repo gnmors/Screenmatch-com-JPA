@@ -8,12 +8,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
 ---
-#### 🚩 G7 ONE | Java e Spring Framework | 🚩
-#### 🌎 [@Alura](https://www.alura.com.br/) | [@One](https://www.oracle.com/br/)<br>
-
-*🎞️️ Projeto Screenmatch desenvolvido nas aulas do curso 🎞️️*
-
----
 ## Observações:
 
 - _API utilizada: `(https://omdbapi.com/)`;_

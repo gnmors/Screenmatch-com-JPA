@@ -76,4 +76,3 @@ public class SerieService {
         return converteDados(repositorio.findByGenero(categoria));
     }
 }
-//

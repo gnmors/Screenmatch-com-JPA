@@ -11,4 +11,3 @@ public record SerieDTO( Long id,
                         String poster,
                         String sinopse) {
 }
-//

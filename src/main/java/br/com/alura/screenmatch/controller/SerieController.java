@@ -54,4 +54,3 @@ public class SerieController {
         return servico.obterSeriesPorCategoria(nomeGenero);
     }
 }
-//
