@@ -30,3 +30,4 @@ public class ConsultaMyMemory {
         return traducao.dadosResposta().textoTraduzido();
     }
 }
+//
